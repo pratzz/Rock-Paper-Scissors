@@ -13,7 +13,7 @@ Run *collect_data.py*, a window with camera feed will pop up. You can capture th
 
 <ins>Example</ins>
     
-    python collect_data.py
+    > python collect_data.py
     Please select one of the labels:
     Rock(0)
     Paper(1)
